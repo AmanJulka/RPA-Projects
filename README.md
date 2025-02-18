@@ -65,7 +65,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">2</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Aadhar Seeding Reseeding and Deseeding</td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-aadhar-seeding">
+        <a href="https://github.com/AmanJulka/RPA---Aadhar-Seeding-Reseeding-and-Deseeding">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
