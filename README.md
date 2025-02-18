@@ -56,7 +56,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">1</td>
       <td style="padding: 10px; border: 1px solid #ddd;">GST Suntec ME POS Rentals</td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-gst-suntec">
+        <a href="https://github.com/AmanJulka/RPA---GST-Suntec-ME-POS-Rentals">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
