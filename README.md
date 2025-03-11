@@ -74,7 +74,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">3</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Branch Service and Audit Report Automation - CHSO & RHSO</td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-branch-audit-report">
+        <a href="https://github.com/AmanJulka/RPA---Branch-Service-and-Audit-Report-Automation-CHSO-RHSO">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -83,7 +83,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">4</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Installation Base Segregation MIS for ME Ops Vendors</td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-installation-base-mis">
+        <a href="https://github.com/AmanJulka/RPA---Merchant-Onboarding-Installation-MIS-Automation-for-ME-Ops-Vendors">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -92,7 +92,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">5</td>
       <td style="padding: 10px; border: 1px solid #ddd;">CC EMI File Processing</td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-cc-emi-processing">
+        <a href="https://github.com/AmanJulka/RPA---CC-EMI-File-processing">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -101,7 +101,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">6</td>
       <td style="padding: 10px; border: 1px solid #ddd;">System Led of Monitoring GL Balances</td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-gl-balances-monitoring">
+        <a href="https://github.com/AmanJulka/RPA---System-led-of-Monitioring-GL-Balances">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -134,7 +134,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">1</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><strong>Vahan Site Automation</strong></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-vahan-automation">
+        <a href="https://github.com/AmanJulka/RPA---Vahan-Site-Automation">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -143,7 +143,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">2</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><strong>Credit Card Rupay UPI Files Auto Download from NPCI</strong></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-rupay-upi-download">
+        <a href="https://github.com/AmanJulka/RPA---Credit-Card-Rupay-UPI-File-Download-Automation">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -167,7 +167,7 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;">1</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><strong>Automation of DL Assignments</strong></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="./project-dl-assignments">
+        <a href="https://github.com/AmanJulka/RPA---Automation-of-DL-Assignments-Process">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
@@ -177,6 +177,15 @@ Below is a categorized list of RPA projects I've developed. Click on the "Explor
       <td style="padding: 10px; border: 1px solid #ddd;"><strong>Application User Dormancy Process</strong></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <a href="./project-user-dormancy">
+          <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">3</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>User Creation Deletion ARMS Integration</strong></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://github.com/AmanJulka/RPA---Automation-of-DL-Assignments-Process">
           <img src="https://img.shields.io/badge/Explore%20Project-Click%20Me-brightgreen" alt="Explore Project">
         </a>
       </td>
