@@ -9,9 +9,9 @@ I'm an experienced RPA Developer with **2+ years** in the field, passionate abou
 
 ## 🏆 **Proven Track Record**  
 I've consistently delivered successful projects, demonstrated by:<br>
-✅ **Designing 15+ RPA solutions**, including critical business processes.<br>
+✅ **Designing 25+ RPA solutions**, including critical business processes.<br>
 ✅ **Achieving an 80% improvement in operational efficiency** and **90% reduction in manual errors** across automated processes.<br>
-✅ Maintaining a **100% on-time project delivery record**. <br>
+✅ Maintaining a **98% on-time project delivery record**. <br>
 ✅ Ensuring **99% success rate in bot performance** post-launch.
 
 
@@ -22,13 +22,13 @@ I thrive on understanding business needs, meticulously documenting requirements,
 ## 🛠️  Skills at a Glance
 
 **RPA Tools:**
-UiPath, Process Studio (AutomationEdge), Microsoft Power Automate, DialogFlow
+AutomationEdge, Automation Anywhere , UiPath, Microsoft Power Automate, DialogFlow
 
 **Automation Expertise:**
 Excel Massaging, API Integrations, Database Integrations, Files Manipulation, Web Automation, Screen Scraping, Surface Automation
 
 **Languages:**
-C++, Java, Python, JavaScript, HTML, CSS, PowerShell
+JavaScript, Python, C++, VB .NET, Java, HTML, CSS, PowerShell
 
 **Databases:**
 MySQL, PostgreSQL, Oracle
